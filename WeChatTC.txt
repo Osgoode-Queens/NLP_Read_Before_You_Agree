@@ -1,0 +1,133 @@
+WeChat Plan Terms and Conditions
+1. Definitions
+In these WeChat Plan Terms and Conditions, the following words and expressions shall have the following
+meanings:
+“Approved Scope” refers to the scope of use of the WeChat that is within the WeChat Plan, as described in
+Clause 2.3.
+“Expiry Date” refers to the last day of the Subscription Period, which day shall end at 2359 hours.
+“General Terms” refers to Singapore Telecommunications Limited's General Terms and Conditions of
+Service (available at http:info.singtel.com/terms-general).
+“Main Account” refers to a Subscriber’s’ main charging account that will be used to deduct the Subscription
+Fees.
+“SingTel Mobile” refers to SingTel Mobile Singapore Pte Ltd (CRN: 201012456C).
+“Subscriber” refers to an eligible SingTel Mobile pre-paid customer who subscribes for the WeChat Plan.
+“Subscription Fee” refers to the charges for the WeChat Plan subscribed by the Subscriber, details of which
+are set out Clause 2.2.
+“Subscription Period” refers to the validity period of the subscription once subscribed as stipulated in the
+relevant WeChat Plan.
+“WeChat” refers to a third party mobile application offered by Tencent Limited.
+“WeChat Plan” refers to the data price plan, as described in Clause 2.2, offered by SingTel Mobile to enable
+Subscribers to use WeChat for the Subscription Period, without incurring additional data charges.
+“WeChat Terms & Conditions” refers to the terms and conditions imposed by Tencent Limited for download
+and use of WeChat.
+The words and expressions used in the WeChat Plan shall have the same meanings as defined in the
+General Terms and/or the Specific Terms unless the context otherwise requires.
+The headings or titles to the clauses in the WeChat Plan Terms and Conditions are to facilitate reference and
+shall not be referred to or relied upon in the construction of any provision of the WeChat Plan.
+2. Scope and Use of WeChat Plan
+
+2.1The Subscriber acknowledges that the purchase and/or use of the WeChat Plan is governed by:
+(a) General Terms;
+(b) WeChat Plan Terms and Conditions; and
+(c) WeChat Terms and Conditions,
+which are deemed incorporated by reference. The Subscriber shall be bound by these terms and conditions.
+2.2 The WeChat Plan will be offered in various denominations, the details of which are as set out in the table
+below and SingTel Mobile shall have the sole and absolute discretion to vary or revise any or all of them from
+time to time and such variation or revision shall take effect from the date determined by SingTel Mobile. The
+Subscription Fee for the WeChat Plan shall be deducted from the Subscriber’s Main Account as follows;
+
+WeChat Plan
+
+Price
+
+1 Day Plan
+7 Day Plan
+30 Day Plan
+
+$0.50
+$3.00
+$6.00
+
+2.3 The WeChat Plan only applies to:
+(a)
+handsets that operate on iOS, Android, Windows and Blackberry software platforms; and
+(b)
+messages, images, video clips and voice messages within WeChat which are delivered within
+Singapore.
+2.4 The purchase fee of WeChat (if any) is not included in the Subscription Fee. Subscribers will incur data
+charges for download of WeChat and use of features and functionalities of the WeChat beyond the Approved
+Scope.
+2.5 Standard charges will apply including but not limited to the followings:
+(a)
+(b)
+(c)
+
+External links which are not within WeChat.
+Enabling or navigating to features that rely on location services.
+The use of walkie-talkie, voice or video call features.
+
+2.6 The WeChat Plan will not be available on SingTel Prepaid Broadband subscriber identification module
+(SIM).
+3. Expiry, Maximum Plan Validity and Fair Usage
+3.1 The WeChat Plan will be valid for use according to the Subscription Period purchased by the Subscriber.
+For the purpose of clarity, subscription will commence from the time of confirmed purchase and end at 2359
+st
+hours on the Expiry Date. For example, if a Subscriber subscribed for a 1 Day Plan on 1 January 2014 at
+1400 hours, the Subscriber will be entitled to use the WeChat Plan for 1 Day and the Subscriber’s
+nd
+subscription will end on 2 January 2014 at 2359 hours.
+3.2 The Subscriber may renew or extend their WeChat Plan by purchasing any of the WeChat Plans on a
+continuous basis, subject to a maximum usage period of 90 days.
+3.3 The WeChat Plan is to be used strictly for personal and non-commercial purpose only and is subject to
+SingTel’s fair usage policy. For WeChat Plan, fair usage is set at 1GB per day. SingTel shall have the sole
+and absolute discretion to change the fair usage policy and to assess whether a Customer’s usage is
+excessive or abusive, in which event SingTel Mobile reserves the right to suspend, modify or terminate the
+WeChat Plan immediately without notice to the Subscriber.
+4
+
+Indemnity, Disclaimer and Limitation of Liability
+
+4.1 The Subscriber shall indemnify, defend and hold SingTel Mobile harmless from and against all and any
+claims, demands, proceedings, costs, expenses, damages (including legal costs) arising from the
+Subscriber’s use of WeChat including any loss or liability suffered or incurred by SingTel Mobile as a result of
+the Subscriber’s breach of WeChat Terms and Conditions.
+4.2 WeChat Plan is offered to the Subscriber on a “as is” basis by SingTel Mobile without any representation,
+warranty or liability whatsoever. SingTel Mobile expressly disclaims to the fullest extent permitted by law all
+express, implied and statutory warranties, including without limitation, warranties as to quality,
+merchantability, fitness for a particular purpose and non-infringement of proprietary or intellectual property
+rights. Without limiting the above, the Subscriber agrees that SingTel Mobile does not warrant that (i) the
+WeChat Plan will meet the Subscriber’s requirements; (ii) access to the WeChat will be uninterrupted, timely,
+secure, or error-free; or (iii) the contents of WeChat will be accurate, up-to-date or reliable.
+4.3 Under no circumstances shall SingTel Mobile have any liability to the Subscriber, including for direct,
+indirect, incidental, consequential, special, exemplary, and punitive damages, and whether such claim is
+based on breach of warranty, contract, tort (including negligence) or otherwise and even if SingTel Mobile
+has been advised of the possibility of such damages. The above shall apply whether the claim or the
+damages arise from use, misuse, unauthorised use, or reliance on WeChat or WeChat Plan, from inability to
+
+use the WeChat, or from the interruption, suspension, or termination of WeChat. The above shall apply
+notwithstanding a failure of essential purpose of any limited remedy and to the fullest extent permitted by law.
+4.4 The Subscriber acknowledges that through the use of WeChat, the Subscriber may gain access to or be
+provided with content, material, tools or services from persons other than SingTel Mobile. The Subscriber
+agrees that SingTel Mobile is not responsible for the availability of and that SingTel Mobile does not endorse
+and is not responsible or liable for the same.
+5. Miscellaneous
+5.1 Under no circumstances shall SingTel Mobile provide a refund to the Subscriber (whether in cash or
+otherwise) for the unexpired Subscription Period of a purchased WeChat Plan.
+5.2 SingTel Mobile reserves the right in its sole and absolute discretion to discontinue, terminate, suspend in
+whole or in part, the WeChat Plan without providing notice and without any liability.
+5.3 The Subscriber shall not use the WeChat Plan for any commercial, promotional or such unauthorised
+purposes.
+5.4 These WeChat Plan Terms and Conditions may be amended by SingTel Mobile from time to time as
+SingTel Mobile deems appropriate and any such amendments shall be posted on
+(www.singtel.com/prepaid) and shall take effect from the date that they are so posted. The Subscriber shall
+be bound by these WeChat Plan Terms and Conditions as so amended if the Subscriber continues to access
+or use the WeChat Plan after the date such amendments are posted.
+5.5 Use of the WeChat Plan will constitute the Subscriber’s acceptance of these WeChat Plan Terms and
+conditions.
+5.6 Subscriber agrees that SingTel Mobile shall be entitled to use and/or disclose any information or data
+disclosed by the Subscriber in accordance to Clause 15 of the General Terms and Conditions. The
+Subscribers are entitled to withdraw such consent in the procedures as prescribed by SingTel Mobile from
+time to time.
+Effective on 31 March 2014
+
+
