@@ -8,7 +8,7 @@ This project outlines the concept of a third-party extension or service (hencefo
 
 ## scope: 
 
-RBYA transformed ToS agreement to an ethic vector in 17 categories by usingNLP techniques, then compared with user’s ethic vector using cosine similarity so that RBYA can provide recommendations on whether to use the app or which app to use based on user’s comfortable level.
+RBYA transformed ToS agreement to an ethic vector in 17 categories by using NLP techniques, then compared with user’s ethic vector using cosine similarity so that RBYA can provide recommendations on whether to use the app or which app to use based on user’s comfortable level.
   
  ## Methodology
  ## Training Data
