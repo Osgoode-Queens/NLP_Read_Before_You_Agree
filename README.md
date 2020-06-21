@@ -33,8 +33,8 @@ Should a platform or APP being developed in order to combine the ToS vectorand u
 
 The ultimate platform should be able to do the followings:
 
-<b> 1.Have an inventory of as many companies’ ToS as possible </br>
-<b> 2.Have an input access for user to copy/paste the ToS they want to check </br>
+<b> 1.Have an inventory of as many companies’ ToS as possible <br/>
+<b> 2.Have an input access for user to copy/paste the ToS they want to check <br/>
 <b> 3.Well-designed survey which can reflects user’s punitive comfort zone/preferences>/b>
 4.A logic to transform the survey result to a customized user vector
 5.Our current model for vectorizing the given ToS
