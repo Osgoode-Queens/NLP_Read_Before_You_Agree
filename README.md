@@ -1,6 +1,6 @@
 # NLP_Read_Before_You_Agree
 
- ![Image description](Osgoode.png)
+ ![Image description](Osgoode1.png)
  
  ## Objective:
 
@@ -31,9 +31,9 @@ Should a platform or APP being developed in order to combine the ToS vectorand u
 
 The ultimate platform should be able to do the followings:
 
-<br> 1.Have an inventory of as many companies’ ToS as possible <br/>
-<br> 2.Have an input access for user to copy/paste the ToS they want to check <br/>
-<br> 3.Well-designed survey which can reflects user’s punitive comfort zone/preferences/<br/>
-<br>4.A logic to transform the survey result to a customized user vector<br/> 
-<br>5.Our current model for vectorizing the given ToS<br/>
-6.Our current mathematic logic to compare ToS’s vector and user’s vector and give related recommendations
+<br> 1.Have an inventory of as many companies’ ToS as possible 
+<br> 2.Have an input access for user to copy/paste the ToS they want to check 
+<br> 3.Well-designed survey which can reflects user’s punitive comfort zone/preferences
+<br>4.A logic to transform the survey result to a customized user vector
+<br>5.Our current model for vectorizing the given ToS
+<br>6.Our current mathematic logic to compare ToS’s vector and user’s vector and give related recommendations<br/>
