@@ -23,6 +23,11 @@ The user's ethic vector was produced by training two models separately. For each
  
 
  ## Results
+ 
+ The F1-score for Model-1 is 76%
+ 
+ The F1-score for model-2 is 80 %
+ 
  ## Conclusion
  
 To reach a better performance for the trained model, more data needs to be collected. Giving the limited companies’ terms ToS, DR has provided, it is not enough for building a robust model. To proceed, either waiting for more terms being labeled from the same data source, or reaching to a different platform.
