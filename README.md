@@ -26,7 +26,7 @@ The user's ethic vector was produced by training two models separately. For each
  
  The F1-score for Model-1 is 76%
  
- The F1-score for model-2 is 80 %
+ The F1-score for model-2 is 80.4 %
  
  ## Conclusion
  
