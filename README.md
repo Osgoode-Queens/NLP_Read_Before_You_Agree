@@ -1,5 +1,7 @@
 # NLP_Read_Before_You_Agree
 
+Please chick on this: [Watch and Enjoy](https://www.youtube.com/watch?v=4TxpI0vcaI4&feature=youtu.be)
+
  ![Image description](Osgoode1.png)
  
  ## Objective:
