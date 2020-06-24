@@ -16,8 +16,8 @@ ToS, DR: Click ==> [Terms of Service](https://tosdr.org/)
 
 The reason for using ToS, DR is they provide not only the punitive labels for the sentences in large companies’ ToS, but also provides a topic classification for each sentence. Both punitive and category labels are available from this website. Potential other data sources:
 
-IBM Watson:– NLP platform provides keyword searching which can give a category for each sentence, but fail to flag the punitive clauses.
-Pribot.org:- Website provide classifications and the purposes for ToS, where punitive purposes can be extracted. However, there is no straight forward punitive flag that can be used for coding as well.
+<br>IBM Watson:– NLP platform provides keyword searching which can give a category for each sentence, but fail to flag the punitive clauses.
+Pribot.org:- Website provide classifications and the purposes for ToS, where punitive purposes can be extracted. However, there is no straight forward punitive flag that can be used for coding as well.<br/>
   
  ## Methodology:
  
@@ -38,9 +38,9 @@ Should a platform or APP being developed in order to combine the ToS vectorand u
 
 The ultimate platform should be able to do the followings:
 
-<br> 1. Have an inventory of as many companies’ ToS as possible 
-<br> 2. Have an input access for user to copy/paste the ToS they want to check 
-<br> 3. Well-designed survey which can reflects user’s punitive comfort zone/preferences
-<br>4. A logic to transform the survey result to a customized user vector
-<br>5. Our current model for vectorizing the given ToS
-<br>6. Our current mathematic logic to compare ToS’s vector and user’s vector and give related recommendations<br/>
+<br> 1. Have an inventory of as many companies’ ToS as possible. 
+<br> 2. Have an input access for user to copy/paste the ToS they want to check. 
+<br> 3. Well-designed survey which can reflects user’s punitive comfort zone/preferences.
+<br>4. A logic to transform the survey result to a customized user vector.
+<br>5. Our current model for vectorizing the given ToS.
+<br>6. Our current mathematic logic to compare ToS’s vector and user’s vector and give related recommendations.<br/>
