@@ -25,13 +25,13 @@ The reason for using ToS, DR is they provide not only the punitive labels for th
 The user's ethic vector was produced by training two models separately. For each model, RoBERT which is an optimized method for pretraining self-supervised NLP systems was used. "simpletransformers" was the library used in python. Before training the model, the data were preprocessed and prepared to train Model-1 and Model-2. Model-1 was a binary classifier and trained to identify whether the input text is good or bad. While Model-2 was trained to multiclassifier. Then, the parameters of both models were saved using pickles. The output of both models were combined and produced a single vector.  
  
 
- ## Results
+ ## Models Evaluation:
  
  The F1-score for Model-1 is 76.0 %
  
  The F1-score for model-2 is 80.4 %
  
- ## Conclusion
+ ## Conclusion:
  
 To reach a better performance for the trained model, more data needs to be collected. Giving the limited companies’ terms ToS, DR has provided, it is not enough for building a robust model. To proceed, either waiting for more terms being labeled from the same data source, or reaching to a different platform.
 
