@@ -17,7 +17,7 @@ ToS, DR: Click ==> [Terms of Service](https://tosdr.org/)
 The reason for using ToS, DR is they provide not only the punitive labels for the sentences in large companies’ ToS, but also provides a topic classification for each sentence. Both punitive and category labels are available from this website. Potential other data sources:
 
 <br>IBM Watson:– NLP platform provides keyword searching which can give a category for each sentence, but fail to flag the punitive clauses.
-Pribot.org:- Website provide classifications and the purposes for ToS, where punitive purposes can be extracted. However, there is no straight forward punitive flag that can be used for coding as well.<br/>
+<br>Pribot.org:- Website provide classifications and the purposes for ToS, where punitive purposes can be extracted. However, there is no straight forward punitive flag that can be used for coding as well.<br/>
   
  ## Methodology:
  
