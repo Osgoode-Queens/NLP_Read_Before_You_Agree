@@ -20,7 +20,7 @@ The reason for using ToS, DR is they provide not only the punitive labels for th
   
  ## Methodology:
  
-The user's ethic vector was produced by training two models separately. For each model, RoBERTa which is an optimized method for pretraining self-supervised NLP systems was used. "simpletransformers" was the library used in python. Before training the model, the data were preprocessed and prepared to train Model-1 and Model-2. Model-1 was a binary classifier and trained to identify whether the input text is good or bad. While Model-2 was trained to multiclassifier. Then, the parameters of both models were saved using pickles. The output of both models was combined and produced a single vector. Models Evaluation  
+The user's ethic vector was produced by training two models separately. For each model, RoBERTa which is an optimized method for pretraining self-supervised NLP systems was used. "simpletransformers" was the library used in python. Before training the model, the data were preprocessed and prepared to train Model-1 and Model-2. Model-1 is a binary classifier and trained to identify whether the input text is good or bad. While Model-2 is a multiclassifier and trained to indentify which one out of 17 topics does the input text related to. Then, the parameters of both models were saved using pickles. The output of both models was combined and produced a single vector. 
  
 
  ## Models Evaluation:
