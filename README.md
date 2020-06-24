@@ -30,6 +30,7 @@ To reach a better performance for the trained model, more data needs to be colle
 Should a platform or APP being developed in order to combine the ToS vectorand user’s vector, where the user can customize their comfortable level and preferences through a well-designed survey. In the current phase, both the user’s survey and the transformation logic for the user’s vector are still in prototype.
 
 The ultimate platform should be able to do the followings:
+
 <br> 1. Have an inventory of as many companies’ ToS as possible 
 <br> 2. Have an input access for user to copy/paste the ToS they want to check 
 <br> 3. Well-designed survey which can reflects user’s punitive comfort zone/preferences
